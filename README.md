@@ -3,8 +3,6 @@
 # 🎵 YouTube Downloader API
 API para download de vídeos do YouTube em formato MP3 e MP4 utilizando Node.js.
 
-![Baixados](https://storage.nexfuture.com.br/1/17c323d6da1d44d8883.jpeg)
-
 ## 📌 **Índice**
 - [Recursos](#-recursos)
 - [Pré-requisitos](#-pré-requisitos)
