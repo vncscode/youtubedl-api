@@ -1,0 +1,11 @@
+[ 05/03/2025-19:10:00 ] [ _.API Logs._ ] [Request] GET /download/mp4?url=https://www.youtube.com/watch?v=zmz0BStwDUw&quality=360 from ::1
+[ 05/03/2025-19:10:00 ] [ _.API Logs._ ] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+[ 05/03/2025-19:11:47 ] [ _.API Logs._ ] [Success] MP4 video downloaded successfully for URL: https://www.youtube.com/watch?v=zmz0BStwDUw
+[ 05/03/2025-19:11:48 ] [ _.API Logs._ ] [Request] GET /favicon.ico from ::1
+[ 05/03/2025-19:11:48 ] [ _.API Logs._ ] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+[ 05/03/2025-19:12:39 ] [ _.API Logs._ ] [Request] GET /download/mp4?url=https://www.youtube.com/watch?v=zmz0BStwDUw&quality=360 from ::1
+[ 05/03/2025-19:12:39 ] [ _.API Logs._ ] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+[ 05/03/2025-19:13:39 ] [ _.API Logs._ ] [Request] GET /download/mp4?url=https://youtu.be/vaYpBRISRqc?si=8bTkPD-KxDeASs_V&quality=360 from ::1
+[ 05/03/2025-19:13:39 ] [ _.API Logs._ ] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+[ 05/03/2025-19:14:22 ] [ _.API Logs._ ] [Success] MP4 video downloaded successfully for URL: https://www.youtube.com/watch?v=zmz0BStwDUw
+[ 05/03/2025-19:15:27 ] [ _.API Logs._ ] [Success] MP4 video downloaded successfully for URL: https://youtu.be/vaYpBRISRqc?si=8bTkPD-KxDeASs_V
