@@ -73,16 +73,31 @@ http://localhost:3000/download/mp3?url=https://www.youtube.com/watch?v=dQw4w9WgX
 ```json
 {
   "info_do_video": {
-    "title": "Título do vídeo",
-    "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "type": "video",
+    "videoId": "zmz0BStwDUw",
+    "url": "https://youtube.com/watch?v=zmz0BStwDUw",
+    "title": "ESTOU DE VOLTA AO GTA RP NO FIVEM (SERVIDOR SÓ COM NORDESTINO)! 🤣🤣🤣",
+    "description": "FIVEM é onde jogamos o modo Roleplay do GTA V. • https://www.instagram.com/lipinhox_/ • https://www.tiktok.com/@lipinhox_ ...",
+    "image": "https://i.ytimg.com/vi/zmz0BStwDUw/hq720.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/zmz0BStwDUw/hq720.jpg",
+    "seconds": 918,
+    "timestamp": "15:18",
+    "duration": {
+      "seconds": 918,
+      "timestamp": "15:18"
+    },
+    "ago": "2 days ago",
+    "views": 12313,
     "author": {
-      "name": "Nome do canal"
+      "name": "LipinhO",
+      "url": "https://youtube.com/@LipinhO"
     }
   },
   "download": {
     "status": true,
-    "downloadLink": "https://link_do_download.mp3",
-    "quality": "192"
+    "downloadLink": "https://cdn51.savetube.su/media/zmz0BStwDUw/estou-de-volta-ao-gta-rp-no-fivem-servidor-so-com-nordestino-128-ytshorts.savetube.me.mp3",
+    "filename": "ESTOU DE VOLTA AO GTA RP NO FIVEM (SERVIDOR SÓ COM NORDESTINO)! 🤣🤣🤣 (128kbps).mp3",
+    "quality": "128kbps"
   }
 }
 ```
@@ -106,16 +121,31 @@ http://localhost:3000/download/mp4?url=https://www.youtube.com/watch?v=dQw4w9WgX
 ```json
 {
   "info_do_video": {
-    "title": "Título do vídeo",
-    "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "type": "video",
+    "videoId": "zmz0BStwDUw",
+    "url": "https://youtube.com/watch?v=zmz0BStwDUw",
+    "title": "ESTOU DE VOLTA AO GTA RP NO FIVEM (SERVIDOR SÓ COM NORDESTINO)! 🤣🤣🤣",
+    "description": "FIVEM é onde jogamos o modo Roleplay do GTA V. • https://www.instagram.com/lipinhox_/ • https://www.tiktok.com/@lipinhox_ ...",
+    "image": "https://i.ytimg.com/vi/zmz0BStwDUw/hq720.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/zmz0BStwDUw/hq720.jpg",
+    "seconds": 918,
+    "timestamp": "15:18",
+    "duration": {
+      "seconds": 918,
+      "timestamp": "15:18"
+    },
+    "ago": "2 days ago",
+    "views": 12313,
     "author": {
-      "name": "Nome do canal"
+      "name": "LipinhO",
+      "url": "https://youtube.com/@LipinhO"
     }
   },
   "download": {
     "status": true,
-    "downloadLink": "https://link_do_download.mp4",
-    "quality": "720"
+    "downloadLink": "https://cdn57.savetube.su/media/zmz0BStwDUw/estou-de-volta-ao-gta-rp-no-fivem-servidor-so-com-nordestino-360-ytshorts.savetube.me.mp4",
+    "filename": "ESTOU DE VOLTA AO GTA RP NO FIVEM (SERVIDOR SÓ COM NORDESTINO)! 🤣🤣🤣 (360p).mp4",
+    "quality": "360p"
   }
 }
 ```
