@@ -43,7 +43,7 @@ API para download de vídeos do YouTube em formato MP3 e MP4 utilizando Node.js.
 
 3. **Execute a API:**
    ```bash
-   node index.js
+   node app.js
    ```
    A API estará disponível em: [http://localhost:3000](http://localhost:3000)
 
