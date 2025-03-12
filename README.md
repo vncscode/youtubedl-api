@@ -9,8 +9,9 @@ API para download de vídeos do YouTube em formato MP3 e MP4 utilizando Node.js.
 - [Instalação](#-instalação)
 - [Como Usar](#-como-usar)
 - [Endpoints](#-endpoints)
-  - [Baixar MP3](#1--baixar-mp3)
-  - [Baixar MP4](#2--baixar-mp4)
+  - [Youtube Search](#1--youtube-search)
+  - [Baixar MP3](#2--baixar-mp3)
+  - [Baixar MP4](#3--baixar-mp4)
 - [Logs](#-logs)
 - [Erros Comuns](#-erros-comuns)
 - [Licença](#-licença)
@@ -59,7 +60,7 @@ Utilize ferramentas como **Postman**, **Insomnia** ou o próprio navegador para 
 
 ## 🔄 **Endpoints**
 
-### 1. 🎶 **Baixar MP3**
+### 1. 🎶 **Youtube Search**
 **Endpoint:** `/youtue/search`  
 **Método:** `GET`
 
