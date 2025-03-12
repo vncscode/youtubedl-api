@@ -1,7 +1,0 @@
-npm install
-
-node app.js
-
-http://localhost:3000/download/mp3?url=https://www.youtube.com/watch?v=zmz0BStwDUw&quality=128
-
-http://localhost:3000/download/mp4?url=https://www.youtube.com/watch?v=zmz0BStwDUw&quality=360
