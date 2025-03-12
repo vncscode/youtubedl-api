@@ -53,6 +53,7 @@ API para download de vídeos do YouTube em formato MP3 e MP4 utilizando Node.js.
 ---
 
 4. **Instale as dependências no modo automate:**
+
    ```bash
    sh init.sh
    ```
