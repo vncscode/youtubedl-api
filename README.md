@@ -19,6 +19,7 @@ API para download de vídeos do YouTube em formato MP3 e MP4 utilizando Node.js.
 ---
 
 ## 🚀 **Recursos**
+- 📥 Buscar vídeos do YouTube com entrega fiel
 - 📥 Baixar vídeos do YouTube em formato **MP3** com qualidade personalizada.
 - 📥 Baixar vídeos do YouTube em formato **MP4** com qualidade personalizada.
 - 📋 Logs detalhados de cada requisição.
