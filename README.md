@@ -56,9 +56,80 @@ Utilize ferramentas como **Postman**, **Insomnia** ou o próprio navegador para 
 
 ---
 
+
 ## 🔄 **Endpoints**
 
 ### 1. 🎶 **Baixar MP3**
+**Endpoint:** `/youtue/search`  
+**Método:** `GET`
+
+**Parâmetros:**
+- `q` (obrigatório): query de pesquisa.  
+
+**Exemplo de requisição:**
+```
+http://localhost:3000/youtube/search?q=miss+you
+```
+
+**Resposta:**
+```json
+{
+  "search_query": "miss you",
+  "results": [
+    {
+      "title": "Oliver Tree & Robin Schulz - Miss You [Official Music Video]",
+      "videoId": "BX0lKSa_PTk",
+      "url": "https://youtube.com/watch?v=BX0lKSa_PTk",
+      "duration": "2:50",
+      "views": 322747895,
+      "thumbnail": "https://i.ytimg.com/vi/BX0lKSa_PTk/hq720.jpg",
+      "author": "Oliver Tree"
+    },
+    {
+      "title": "blink-182 - I Miss You (Official Video)",
+      "videoId": "s1tAYmMjLdY",
+      "url": "https://youtube.com/watch?v=s1tAYmMjLdY",
+      "duration": "3:50",
+      "views": 451379858,
+      "thumbnail": "https://i.ytimg.com/vi/s1tAYmMjLdY/hq720.jpg",
+      "author": "blink-182"
+    },
+    {
+      "title": "Westlife - Miss You (Official Audio)",
+      "videoId": "TiYKAinQOoE",
+      "url": "https://youtube.com/watch?v=TiYKAinQOoE",
+      "duration": "3:55",
+      "views": 2180517,
+      "thumbnail": "https://i.ytimg.com/vi/TiYKAinQOoE/hq720.jpg",
+      "author": "Westlife "
+    },
+    {
+      "title": "Beéle - I Miss You (Video Oficial)",
+      "videoId": "BrGl81E4ZOc",
+      "url": "https://youtube.com/watch?v=BrGl81E4ZOc",
+      "duration": "2:56",
+      "views": 35564890,
+      "thumbnail": "https://i.ytimg.com/vi/BrGl81E4ZOc/hq720.jpg",
+      "author": "Beéle"
+    },
+    {
+      "title": "Cashmere Cat, Major Lazer, Tory Lanez - Miss You (Official Music Video)",
+      "videoId": "2h0bkuWzQeU",
+      "url": "https://youtube.com/watch?v=2h0bkuWzQeU",
+      "duration": "3:07",
+      "views": 73392445,
+      "thumbnail": "https://i.ytimg.com/vi/2h0bkuWzQeU/hqdefault.jpg",
+      "author": "Major Lazer Official"
+    }
+  ]
+}
+```
+
+
+
+---
+
+### 2. 🎶 **Baixar MP3**
 **Endpoint:** `/download/mp3`  
 **Método:** `GET`
 
@@ -106,7 +177,7 @@ http://localhost:3000/download/mp3?url=https://www.youtube.com/watch?v=dQw4w9WgX
 
 ---
 
-### 2. 🎥 **Baixar MP4**
+### 3. 🎥 **Baixar MP4**
 **Endpoint:** `/download/mp4`  
 **Método:** `GET`
 
