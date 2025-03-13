@@ -68,7 +68,7 @@ Utilize ferramentas como **Postman**, **Insomnia** ou o próprio navegador para 
 ## 🔄 **Endpoints**
 
 ### 1. 🎶 **Youtube Search**
-**Endpoint:** `/youtue/search`  
+**Endpoint:** `/youtube/search`  
 **Método:** `GET`
 
 **Parâmetros:**
